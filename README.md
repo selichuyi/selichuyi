@@ -11,10 +11,9 @@
 -->
 
 <p align="center"> 
-  <b>Visitor Count</b> <br>
+  <b>Visitor Counts</b> <br>
   <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
 </p>
-<!-- <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> -->
 
 
 <!-- 
