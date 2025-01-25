@@ -26,7 +26,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921" alt="Top Langs" /></a> 
 </p>
 
-##
 
 ### Languages and Tools
 <table><tr><td valign="center" width="50%">
