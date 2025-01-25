@@ -32,7 +32,7 @@ Hi there 👋 welcome to my github profile.
 
 
 ## Languages and Tools
-<table><tr><td valign="center" width="60%">
+<table><tr><td valign="center" width="55%">
 
 <p align="center"><b>Backend</b></p>
 <div align="center">  
@@ -61,7 +61,7 @@ Hi there 👋 welcome to my github profile.
   <a href="https://pandas.pydata.org/"><img style="margin: 10px" height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" /></a>
   <a href="https://numpy.org/"><img style="margin: 10px" height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" /></a>
 </div>
-</td><td valign="center" width="40%">
+</td><td valign="center" width="45%">
 
 <p align="center"><b>Frontend</b></p>
 <div align="center">  
