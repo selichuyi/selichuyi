@@ -1,5 +1,5 @@
 <p align="center"> 
-  Visitor Counts <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Visitor Counts:&size=16&duration=6000&center=true&vCenter=true&color=00FF00&background=000000&height=30&width=150"></a> <br>
   <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
 </p>
 
