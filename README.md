@@ -3,7 +3,9 @@
   <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
 </p>
 
-## Hi there 👋 welcome to my github profile.
+Hi there 👋 welcome to my github profile.
+=====
+
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,7 +30,7 @@
 </p>
 
 
-### Languages and Tools
+## Languages and Tools
 <table><tr><td valign="center" width="50%">
 
 <p align="center"><b>Backend</b></p>
