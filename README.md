@@ -10,16 +10,17 @@
 - ⚡ Fun fact: ...
 -->
 
-![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selichuyi)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
 </p>
 <!-- <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> -->
+
+
+![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selichuyi)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
