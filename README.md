@@ -19,13 +19,14 @@
 
 <!-- 
 ![profile views](https://komarev.com/ghpvc/?username=selichuyi)
-![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true) 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=selin)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <p align="center"> 
   <a><img src="https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true&bg_color=00000000&title_color=eb8921&icon_color=eb8921&hide_rank=true" alt="Github Stats"></a> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selichuyi" alt="Github Steaks" /></a> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921" alt="Top Langs" /></a> 
 </p>
+
 
 
 ### My Skill Set  
