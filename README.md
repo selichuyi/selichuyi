@@ -11,15 +11,14 @@
 -->
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor Count</b> <br>
   <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
 </p>
 <!-- <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> -->
 
 
-![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selichuyi&theme=meta-light)](https://git.io/streak-stats)
-
+<!-- ![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=selichuyi&short_numbers=true&mode=weekly&card_width=490&border=DFDFDFD7)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
