@@ -10,24 +10,17 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/selichuyi/count.svg) visitor! -->
-You are my <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> visitor!
-
 <!-- ![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selichuyi)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### My Skill Set
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=selichuyi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selichuyi&label=Profile%20views&color=0e75b6&style=flat" alt="selichuyi" /> </p>
-<h3 align="center">A passionate frontend developer from India</h3>
--->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
+</p>
+<!-- <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
