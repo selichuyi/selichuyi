@@ -18,7 +18,7 @@
 
 
 ![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=selichuyi&count_private=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selichuyi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selichuyi&theme=meta-light)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
