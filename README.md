@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor Counts <br>
+  <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
+</p>
+
 ## Hi there 👋 welcome to my github profile.
 <!-- 
 - 🔭 I’m currently working on ...
@@ -9,11 +14,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center"> 
-  <b>Visitor Counts</b> <br>
-  <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
-</p>
 
 
 <!-- 
