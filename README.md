@@ -32,9 +32,10 @@ Hi there 👋 welcome to my github profile.
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/wakatime?username=selin&layout=compact&title_color=eb8921"></a> 
 </p>
 
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 ## Languages and Tools
 <table><tr><td valign="center" width="55%">
