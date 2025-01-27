@@ -19,18 +19,22 @@ Hi there 👋 welcome to my github profile.
 
 
 <!-- 
-![profile views](https://komarev.com/ghpvc/?username=selichuyi)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=selin)](https://github.com/anuraghazra/github-readme-stats)
+![profile views](https://komarev.com/ghpvc/?username=selichuyi)
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921" alt="Top Langs" /></a> 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selichuyi" alt="Github Steaks" /></a> <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selin" alt="Github Steaks" /></a> <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selichuyi" alt="selichuyi" /></a>
 -->
 <p align="center"> 
   <a><img src="https://github-readme-stats-selinaver.vercel.app/api?username=selichuyi&count_private=true&show_icons=true&bg_color=00000000&title_color=eb8921&icon_color=eb8921&text_color=black&hide_rank=true" alt="Github Stats"></a> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-selinalis-projects.vercel.app?user=selichuyi&card_width=480&mode=weekly" alt="Github Steaks" /></a> <br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-selinalis-projects.vercel.app?user=selichuyi&card_width=490&mode=weekly" alt="Github Steaks" /></a> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921" alt="Top Langs" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/wakatime?username=selin&layout=compact&title_color=eb8921"></a> 
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## Languages and Tools
 <table><tr><td valign="center" width="55%">
