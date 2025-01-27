@@ -24,25 +24,15 @@ Hi there 👋 welcome to my github profile.
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921" alt="Top Langs" /></a> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selin" alt="Github Steaks" /></a> <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selichuyi" alt="selichuyi" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/wakatime?username=selin&layout=compact&title_color=eb8921" alt="wakatime"></a> 
 -->
 <p align="center"> 
   <a><img src="https://github-readme-stats-selinaver.vercel.app/api?username=selichuyi&count_private=true&show_icons=true&bg_color=00000000&title_color=eb8921&icon_color=eb8921&text_color=black&hide_rank=true" alt="Github Stats"></a> 
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-selinalis-projects.vercel.app?user=selichuyi&card_width=490&mode=weekly" alt="Github Steaks" /></a> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921" alt="Top Langs" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/wakatime?username=selin&layout=compact&title_color=eb8921"></a> 
 </p>
 
 
-<!--START_SECTION:waka-->
-
-```txt
-Other      2 hrs 21 mins   ██████████████▒░░░░░░░░░░   56.69 %
-Markdown   1 hr 32 mins    █████████▒░░░░░░░░░░░░░░░   37.27 %
-Python     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ## Languages and Tools
@@ -90,8 +80,18 @@ HTML       1 min           ░░░░░░░░░░░░░░░░░�
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="30" /></a>  
 </div>
 </td></tr></table>  
-<br/> 
 
+## Weekly Coding Time
+<!--START_SECTION:waka-->
+
+```txt
+Other      2 hrs 21 mins   ██████████████▒░░░░░░░░░░   56.69 %
+Markdown   1 hr 32 mins    █████████▒░░░░░░░░░░░░░░░   37.27 %
+Python     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
