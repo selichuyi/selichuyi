@@ -82,7 +82,7 @@ Hi there 👋 welcome to my github profile.
 </td></tr></table>  
 
 
-## Weekly Coding Time
+## Coding Time Stats
 <!--START_SECTION:waka-->
 
 ```txt
