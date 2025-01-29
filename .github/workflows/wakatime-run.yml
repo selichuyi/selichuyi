@@ -19,5 +19,4 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           SHOW_TOTAL: true
-          SHOW_LANGUAGE: true
-          SHOW_EDITORS: true
+          CODE_LANG: true
