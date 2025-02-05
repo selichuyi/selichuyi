@@ -91,6 +91,7 @@ From: 29 January 2025 - To: 05 February 2025
 
 Total Time: 53 mins
 
+Other        20 hrs 45 mins  ████████████████████████░   95.86 %
 SSH Config   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 R            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
