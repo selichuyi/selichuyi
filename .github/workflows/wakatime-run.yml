@@ -20,3 +20,4 @@ jobs:
           # SECTION_NAME: waka
           SHOW_TOTAL: true
           CODE_LANG: true
+          IGNORED_LANGUAGES: Other
