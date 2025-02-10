@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/selichuyi/count.svg" />
 </p>
 
-Hi there 👋 welcome to my github profile.
+👋 welcome to my github profile.
 =====
 
 <!-- 
