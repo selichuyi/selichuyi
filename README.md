@@ -87,13 +87,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 07 February 2025 - To: 14 February 2025
+From: 08 February 2025 - To: 15 February 2025
 
 Total Time: 59 mins
 
-Other        19 hrs 9 mins   ███████████████████████▓░   95.05 %
-SSH Config   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-RMarkdown    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other        16 hrs 5 mins   ███████████████████████▓░   94.16 %
+SSH Config   50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+RMarkdown    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
