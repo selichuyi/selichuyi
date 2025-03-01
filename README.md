@@ -87,13 +87,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 20 February 2025 - To: 27 February 2025
+From: 21 February 2025 - To: 28 February 2025
 
-Total Time: 32 mins
+Total Time: 25 mins
 
-Other      18 hrs 54 mins  ████████████████████████▒   97.21 %
-Text       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Markdown   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other      12 hrs 19 mins  ████████████████████████░   96.66 %
+Text       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
