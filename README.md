@@ -87,15 +87,15 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 24 February 2025 - To: 03 March 2025
+From: 25 February 2025 - To: 04 March 2025
 
-Total Time: 58 mins
+Total Time: 55 mins
 
-Other        8 hrs 47 mins   ██████████████████████▒░░   89.97 %
-RMarkdown    33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-TSConfig     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other        7 hrs 21 mins   ██████████████████████▒░░   88.77 %
+RMarkdown    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TSConfig     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
