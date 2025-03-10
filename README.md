@@ -87,15 +87,15 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 01 March 2025 - To: 08 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
-Total Time: 1 hr 2 mins
+Total Time: 1 hr 22 mins
 
-Other        8 hrs 8 mins    ██████████████████████▒░░   88.72 %
-TypeScript   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-TSConfig     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        18 hrs 12 mins  ███████████████████████▒░   92.98 %
+TypeScript   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+TSConfig     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
