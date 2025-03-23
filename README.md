@@ -87,13 +87,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 14 March 2025 - To: 21 March 2025
+From: 15 March 2025 - To: 22 March 2025
 
-Total Time: 3 hrs 40 mins
+Total Time: 3 hrs 25 mins
 
-Other       31 hrs          ██████████████████████▒░░   89.40 %
-R           2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-RMarkdown   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Other       29 hrs 50 mins  ██████████████████████▒░░   89.71 %
+R           2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+RMarkdown   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
