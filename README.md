@@ -87,12 +87,11 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 24 March 2025 - To: 31 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
 Total Time: 0 secs
 
-Other       4 hrs 17 mins   █████████████████████████   99.64 %
-RMarkdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other   4 hrs 15 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
