@@ -87,13 +87,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-Total Time: 1 hr 53 mins
+Total Time: 56 mins
 
-Other    28 hrs 18 mins  ███████████████████████▒░   93.72 %
-Python   1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-YAML     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other    20 hrs 24 mins  ████████████████████████░   95.61 %
+Python   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
