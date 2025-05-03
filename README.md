@@ -87,12 +87,14 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 24 April 2025 - To: 01 May 2025
+From: 25 April 2025 - To: 02 May 2025
 
-Total Time: 45 mins
+Total Time: 1 hr 36 mins
 
-Other    17 hrs 33 mins  ████████████████████████░   95.89 %
-Python   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Other              22 hrs 47 mins  ███████████████████████▒░   93.44 %
+Python             1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Jupyter Notebook   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
