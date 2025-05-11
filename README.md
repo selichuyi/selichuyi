@@ -87,15 +87,15 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 02 May 2025 - To: 09 May 2025
+From: 03 May 2025 - To: 10 May 2025
 
-Total Time: 6 hrs 6 mins
+Total Time: 5 hrs 32 mins
 
-Other      16 hrs 30 mins  ██████████████████▒░░░░░░   73.00 %
-Python     2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Markdown   2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-YAML       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-JSON       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other      15 hrs 22 mins  ██████████████████▒░░░░░░   73.50 %
+Markdown   3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+YAML       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Python     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JSON       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
