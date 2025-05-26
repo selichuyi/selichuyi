@@ -87,12 +87,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
-Total Time: 5 hrs 44 mins
+Total Time: 7 hrs 36 mins
 
-Other    20 hrs 17 mins  ███████████████████▒░░░░░   77.94 %
-Python   5 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Other    16 hrs 29 mins  █████████████████░░░░░░░░   68.41 %
+Python   7 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   31.54 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
