@@ -87,12 +87,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
 Total Time: 1 hr 48 mins
 
-Other    21 hrs 22 mins  ███████████████████████░░   92.17 %
-Python   1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Other    19 hrs 5 mins   ██████████████████████▓░░   91.32 %
+Python   1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
 ```
 
 <!--END_SECTION:waka-->
