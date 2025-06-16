@@ -29,7 +29,7 @@
 <!-- ###################################################################### Metrics ###################################################################### -->
 <p align="center"> 
   <a><img src="github-readme-streak-stats-git-main-selinalis-projects.vercel.app?username=selichuyi&count_private=true&show_icons=true&bg_color=00000000&title_color=eb8921&icon_color=eb8921&text_color=black&hide_rank=true" alt="Github Stats"></a> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-tau.vercel.app/?user=selichuyi&card_width=490&mode=weekly&count_private=true" alt="Github Steaks" /></a> <br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-selinalis-projects.vercel.app/?user=selichuyi&card_width=490&mode=weekly&count_private=true" alt="Github Steaks" /></a> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-selinaver.vercel.app/api/top-langs/?username=selichuyi&layout=compact&title_color=eb8921&count_private=true" alt="Top Langs" /></a> 
 </p>
 
