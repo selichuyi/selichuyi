@@ -88,13 +88,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
 Total Time: 3 hrs 1 min
 
-Other       9 hrs 30 mins   ███████████████████░░░░░░   75.90 %
-Python      2 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-RMarkdown   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Other       8 hrs 43 mins   ██████████████████▓░░░░░░   74.29 %
+Python      2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+RMarkdown   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
