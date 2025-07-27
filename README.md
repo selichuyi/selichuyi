@@ -88,12 +88,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
 Total Time: 8 mins
 
-Other       30 mins         ███████████████████▓░░░░░   78.03 %
-RMarkdown   8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+Other       1 hr 6 mins     ██████████████████████░░░   88.60 %
+RMarkdown   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
 ```
 
 <!--END_SECTION:waka-->
