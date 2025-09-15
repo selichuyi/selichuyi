@@ -88,12 +88,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
 Total Time: 32 mins
 
-Other       2 hrs 13 mins   ████████████████████░░░░░   80.23 %
-RMarkdown   32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Other       2 hrs 1 min     ███████████████████▓░░░░░   78.71 %
+RMarkdown   32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
 ```
 
 <!--END_SECTION:waka-->
