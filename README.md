@@ -88,12 +88,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 1 hr 3 mins
+Total Time: 58 mins
 
-Other   5 hrs 3 mins    ████████████████████▓░░░░   82.68 %
-JSON    1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+Other   7 hrs 18 mins   ██████████████████████░░░   88.19 %
+JSON    58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
 ```
 
 <!--END_SECTION:waka-->
