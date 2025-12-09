@@ -88,12 +88,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 2 hrs 58 mins
+Total Time: 1 hr 8 mins
 
-Other   8 hrs 7 mins    ██████████████████▒░░░░░░   73.16 %
-JSON    2 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
+Other   8 hrs 6 mins    ██████████████████████░░░   87.70 %
+JSON    1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
 ```
 
 <!--END_SECTION:waka-->
