@@ -88,11 +88,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
 Total Time: 0 secs
 
-Other   4 hrs 13 mins   █████████████████████████   100.00 %
+Other   6 hrs 50 mins   █████████████████████████   99.86 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
