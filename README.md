@@ -88,13 +88,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
 Total Time: 2 hrs 11 mins
 
-Other       7 hrs 22 mins   ███████████████████▒░░░░░   77.06 %
-Python      2 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-RMarkdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other       6 hrs 54 mins         ███████████████████░░░░░░   75.89 %
+Python      2 hrs 11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+RMarkdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
