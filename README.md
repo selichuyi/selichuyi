@@ -88,15 +88,15 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 11 February 2026 - To: 18 February 2026
+From: 12 February 2026 - To: 19 February 2026
 
-Total Time: 6 hrs 21 mins
+Total Time: 7 hrs 29 mins
 
-Python      6 hrs 19 mins         █████████████▒░░░░░░░░░░░   53.28 %
-Other       5 hrs 29 mins         ███████████▓░░░░░░░░░░░░░   46.33 %
-HTML        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-RMarkdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-CSV         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python      6 hrs 56 mins         ████████████▓░░░░░░░░░░░░   50.65 %
+Other       6 hrs 12 mins         ███████████▒░░░░░░░░░░░░░   45.34 %
+Markdown    30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+HTML        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+RMarkdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
