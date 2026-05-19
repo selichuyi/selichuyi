@@ -90,10 +90,10 @@
 ```true
 From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 2 hrs 18 mins
+Total Time: 2 hrs 20 mins
 
-Other    19 hrs 4 mins         ██████████████████████▒░░   89.18 %
-Python   2 hrs 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Other    19 hrs 2 mins         ██████████████████████▒░░   89.01 %
+Python   2 hrs 17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 CSV      2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 HTML     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
