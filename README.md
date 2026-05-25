@@ -88,13 +88,12 @@
 <!--START_SECTION:waka-->
 
 ```true
-From: 16 May 2026 - To: 23 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
-Total Time: 1 hr 9 mins
+Total Time: 1 hr 13 mins
 
-Other       28 hrs 2 mins         ████████████████████████░   96.02 %
-Python      1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-CSV         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other       27 hrs 57 mins        ████████████████████████░   95.82 %
+Python      1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 RMarkdown   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
